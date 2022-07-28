@@ -1,5 +1,6 @@
 import sys
 
+
 def load(file):
     """Open a text file & return a list of lowercase strings."""
     try:
